@@ -1,0 +1,3 @@
+- bun
+- HTMX
+- KitaJS
